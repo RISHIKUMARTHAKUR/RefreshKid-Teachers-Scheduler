@@ -8,12 +8,13 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center gap-3">
           <Image 
-            src="https://placehold.co/512x59.png" 
-            alt="Refresh Kid: Add Teacher Availability" 
-            width={512} 
-            height={59} 
+            src="https://raw.githubusercontent.com/RISHIKUMARTHAKUR/RefreshKid-Teachers-Scheduler/refs/heads/main/Screenshot%202025-06-21%20013254.png" 
+            alt="RefreshKid Logo" 
+            width={600} 
+            height={40} 
             priority
-            data-ai-hint="logo refresh kid" 
+            className="rounded-md"
+            data-ai-hint="logo" 
           />
         </div>
       </div>
